@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, main!</string>
+    <string name="app_name">RevDev Solutions Mobile</string>
+    <string-array name="values">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent">
+  <TextView android:layout_height="50dp" android:background="#556777" android:textStyle="bold" android:textColor="#FFFFFF" android:layout_alignParentTop="true" android:layout_width="fill_parent" android:id="@+id/textView1" android:gravity="center_vertical|center_horizontal" android:text="RevDev Solutions Mobile"></TextView>
+    <ListView android:layout_height="wrap_content" android:layout_width="match_parent" android:id="@+id/listView1" android:layout_below="@+id/textView1" android:layout_above="@+id/relativefragmentholder"></ListView>
+    </RelativeLayout>
